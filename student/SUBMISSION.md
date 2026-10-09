@@ -4,7 +4,7 @@
 
 ## Thông tin học viên
 
-- Họ tên: Vu Quoc Huy
+- Họ tên: Vũ Quốc Huy
 - MSSV: 2A202602929
 - Email: vuquochuyforwork@gmail.com
 - Link repo (fork): https://github.com/VuQuocHuy89/K4-L2L3-DAY23-VuQuocHuy-2A202602929-SensorFusion
@@ -71,4 +71,4 @@ Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES
 - [x] Đã điền đủ file này, gồm khai báo AI
 - [x] Không commit dữ liệu Waymo, weights, `paths.yaml`, API key
 - [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
-- [ ] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md))
+- [x] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md))
